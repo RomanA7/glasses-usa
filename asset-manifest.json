@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glasses-usa/static/css/main.52d73dd9.chunk.css",
+    "main.js": "/glasses-usa/static/js/main.b9464e27.chunk.js",
+    "main.js.map": "/glasses-usa/static/js/main.b9464e27.chunk.js.map",
+    "runtime-main.js": "/glasses-usa/static/js/runtime-main.57d46790.js",
+    "runtime-main.js.map": "/glasses-usa/static/js/runtime-main.57d46790.js.map",
+    "static/js/2.297cfa99.chunk.js": "/glasses-usa/static/js/2.297cfa99.chunk.js",
+    "static/js/2.297cfa99.chunk.js.map": "/glasses-usa/static/js/2.297cfa99.chunk.js.map",
+    "index.html": "/glasses-usa/index.html",
+    "precache-manifest.9addd0044292d33601b55f7a301a2497.js": "/glasses-usa/precache-manifest.9addd0044292d33601b55f7a301a2497.js",
+    "service-worker.js": "/glasses-usa/service-worker.js",
+    "static/css/main.52d73dd9.chunk.css.map": "/glasses-usa/static/css/main.52d73dd9.chunk.css.map",
+    "static/js/2.297cfa99.chunk.js.LICENSE.txt": "/glasses-usa/static/js/2.297cfa99.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/glasses-usa/static/media/arrow.a7c91a74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d46790.js",
+    "static/js/2.297cfa99.chunk.js",
+    "static/css/main.52d73dd9.chunk.css",
+    "static/js/main.b9464e27.chunk.js"
+  ]
+}
